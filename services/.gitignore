@@ -1,0 +1,14 @@
+/customer-service/venv
+/customer-service/.env
+
+/order-service/venv
+/order-service/.env
+
+/pricing-service/venv
+/pricing-service/.env
+
+/notification-service/venv
+/notification-service/.env
+
+/inventory-service/venv
+/inventory-service/.env
