@@ -12,3 +12,43 @@
 
 /inventory-service/venv
 /inventory-service/.env
+
+
+/frontend/Frontend-jsp/target/
+/frontend/Frontend-jsp/!.mvn/wrapper/maven-wrapper.jar
+/frontend/Frontend-jsp/!**/src/main/**/target/
+/frontend/Frontend-jsp/!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+/frontend/Frontend-jsp/.idea/modules.xml
+/frontend/Frontend-jsp/.idea/jarRepositories.xml
+/frontend/Frontend-jsp/.idea/compiler.xml
+/frontend/Frontend-jsp/.idea/libraries/
+/frontend/Frontend-jsp/*.iws
+/frontend/Frontend-jsp/*.iml
+/frontend/Frontend-jsp/*.ipr
+
+### Eclipse ###
+/frontend/Frontend-jsp/.apt_generated
+/frontend/Frontend-jsp/.classpath
+/frontend/Frontend-jsp/.factorypath
+/frontend/Frontend-jsp/.project
+/frontend/Frontend-jsp/.settings
+/frontend/Frontend-jsp/.springBeans
+/frontend/Frontend-jsp/.sts4-cache
+
+### NetBeans ###
+/frontend/Frontend-jsp/nbproject/private/
+/frontend/Frontend-jsp/nbbuild/
+/frontend/Frontend-jsp/dist/
+/frontend/Frontend-jsp/nbdist/
+/frontend/Frontend-jsp/.nb-gradle/
+/frontend/Frontend-jsp/build/
+/frontend/Frontend-jsp/!**/src/main/**/build/
+/frontend/Frontend-jsp/!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
