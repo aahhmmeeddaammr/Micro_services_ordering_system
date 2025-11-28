@@ -1,17 +1,17 @@
-/customer-service/venv
-/customer-service/.env
+/services/customer-service/venv
+services/customer-service/.env
 
-/order-service/venv
-/order-service/.env
+services/order-service/venv
+services/order-service/.env
 
-/pricing-service/venv
-/pricing-service/.env
+services/pricing-service/venv
+services/pricing-service/.env
 
-/notification-service/venv
-/notification-service/.env
+services/notification-service/venv
+services/notification-service/.env
 
-/inventory-service/venv
-/inventory-service/.env
+services/inventory-service/venv
+services/inventory-service/.env
 
 
 /frontend/Frontend-jsp/target/
